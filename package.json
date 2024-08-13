@@ -5,7 +5,7 @@
   "main": "./src/essence-sse.js",
   "private": false,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "author": "CentenV",
   "license": "MIT",
