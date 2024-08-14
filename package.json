@@ -1,5 +1,5 @@
 {
-  "name": "essence-sse-next",
+  "name": "essence-sse-next_temp",
   "version": "1.0.0",
   "description": "Server sent events (SSE) made easy for NextJS",
   "main": "./src/index.js",
