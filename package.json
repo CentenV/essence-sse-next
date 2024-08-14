@@ -2,7 +2,7 @@
   "name": "essence-sse-next",
   "version": "1.0.0",
   "description": "Server sent events (SSE) made easy for NextJS",
-  "main": "./src/essence-sse.js",
+  "main": "./src/index.js",
   "private": false,
   "scripts": {
     "test": "vitest"
